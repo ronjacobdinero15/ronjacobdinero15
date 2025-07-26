@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm Ron Jacob!
 
+### A Passionate Full Stack Developer | UI/UX Designer
+
 🔭 I’m currently working on a freelance ecommerce project<br>
 🏫 Computer Science (CS) major graduate from EAC-Cavite, Philippines<br>
 👨‍💻 All of my projects are available at this <u>[nextjs portfolio](https://ronjacobdinero.netlify.app/)</u><br>
@@ -9,7 +11,7 @@
 <br>
 📄 Know about my experiences <u>[resume](https://ronjacobdinero.netlify.app/documents/resume.pdf)</u>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronjacobdinero15&bg_color=ffffff00&text_color=0055ff)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=ronjacobdinero15&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
