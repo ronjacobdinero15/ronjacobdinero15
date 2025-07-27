@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ronjacobdinero15) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronjacobdinero) 
 <br>
-📄 Know about my experiences <u>[resume](https://ronjacobdinero.netlify.app/documents/resume.pdf)</u>
+📄 Know about my experiences through this <u>[resume](https://ronjacobdinero.netlify.app/documents/resume.pdf)</u>
 
 ![](https://github-readme-stats.vercel.app/api?username=ronjacobdinero15&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
