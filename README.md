@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on a freelance ecommerce project<br>
 🏫 Computer Science (CS) major graduate from EAC-Cavite, Philippines<br>
-👨‍💻 All of my projects are available at this <u>[nextjs portfolio](https://ronjacobdinero.netlify.app/)</u><br>
+👨‍💻 All of my projects are available at this <u>[nextjs portfolio](https://ronjacobdinero.vercel.app/)</u><br>
 📫 How to reach me: <u>ronjacobdinero15@gmail.com</u> or connect via 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ronjacobdinero15) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronjacobdinero) 
