@@ -2,7 +2,7 @@
 
 ### A Passionate Full Stack Developer | UI/UX Designer
 
-🔭 I’m currently learning Medusa.js framework<br>
+🔭 I’m currently working on a freelance project :><br>
 🏫 Computer Science (CS) major graduate from EAC-Cavite, Philippines<br>
 👨‍💻 All of my projects are available in my <u>[nextjs portfolio](https://ronjacobdinero.vercel.app/)</u><br>
 📫 How to reach me: <u>ronjacobdinero15@gmail.com</u> or connect via 
